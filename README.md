@@ -1,2 +1,2 @@
 # my first website
-live link: https://aporbo.github.io/First-web/
+[click to view live link] (https://aporbo.github.io/First-web/)
